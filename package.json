@@ -1,0 +1,32 @@
+{
+  "name": "uc-flow",
+  "version": "1.0.0",
+  "description": "Various execution flow helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unchainedui/flow.git"
+  },
+  "keywords": [
+    "unchained",
+    "ui",
+    "browser",
+    "flow",
+    "async",
+    "parallel",
+    "serial",
+    "debounce",
+    "throttle",
+    "retry",
+    "kiss"
+  ],
+  "author": "Alexey Novikov <v@2dubs.com> (http://2dubs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unchainedui/flow/issues"
+  },
+  "homepage": "https://github.com/unchainedui/flow#readme"
+}
