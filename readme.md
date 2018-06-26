@@ -2,6 +2,9 @@
 
 ## Flow
 
+[![NPM Version](https://img.shields.io/npm/v/uc-flow.svg?style=flat-square)](https://www.npmjs.com/package/uc-flow)
+[![NPM Downloads](https://img.shields.io/npm/dt/uc-flow.svg?style=flat-square)](https://www.npmjs.com/package/uc-flow)
+
 Various execution flow helpers
 
 * [series](#series)
